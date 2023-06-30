@@ -31,7 +31,7 @@ const MobileMenu = () => {
             <SiGithub size={36} className="inline" /> 
             <p className="font-semibold inline pl-2 text-xl md:text-2xl md:leading-[36px]"> zajrzyj na Githuba</p>
           </Link>
-          <Link href="/spolecznosc-kobiet-w-it" className="px-2 py-4" onClick={() => closeMenu()}>
+          <Link href="https://pinkjagnie.pl/spolecznosc-kobiet-w-it" className="px-2 py-4" onClick={() => closeMenu()}>
             <p className="inline text-2xl">👩🏻‍💻</p>
             <p className="font-semibold inline pl-2 text-xl md:text-2xl md:leading-[36px]"> kobiece IT</p>
           </Link>
