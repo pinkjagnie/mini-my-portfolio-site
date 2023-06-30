@@ -5,6 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 import Hero from './components/Hero';
 import ListOfLinks from './components/ListofLinks';
+import SocialMedia from './components/SocialMedia';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <main className='min-h-screen bg-pink-100'>
         <Hero /> 
         <ListOfLinks />
+        <SocialMedia />
       </main>
     </>
   )
