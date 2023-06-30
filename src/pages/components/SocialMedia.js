@@ -10,10 +10,10 @@ const SocialMedia = () => {
         <Link href="https://www.linkedin.com/in/olga-krzysztofik/">
           <SiLinkedin size={50} className="text-[#d66382]" />
         </Link>
-        <Link href="https://instagram.com/pinkjagnie" className="pl-6">
+        <Link href="https://instagram.com/pinkjagnie" className="pl-6 md:pl-12">
           <SiInstagram size={50} className="text-[#d66382]" />
         </Link>
-        <Link href="https://t.me/PinkJagnie" className="pl-6">
+        <Link href="https://t.me/PinkJagnie" className="pl-6 md:pl-12">
           <SiTelegram size={50} className="text-[#d66382]" />
         </Link>
       </div>
