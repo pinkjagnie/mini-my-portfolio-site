@@ -3,9 +3,9 @@ import { Inter } from '@next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
-import Hero from './components/Hero';
-import ListOfLinks from './components/ListofLinks';
-import SocialMedia from './components/SocialMedia';
+import Hero from '../components/Hero';
+import ListOfLinks from '../components/ListofLinks';
+import SocialMedia from '../components/SocialMedia';
 
 export default function Home() {
   return (
