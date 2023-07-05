@@ -35,4 +35,10 @@ export const contentLinks = [
     title: 'zobacz biżuterię tworzoną przez rękodzielnika - moją Mamę',
     link: 'https://www.facebook.com/pracownia.rekodziela.ka'
   },
+  {
+    id: '7',
+    icon: '🤖',
+    title: 'przyjdź na największy hackathon w Europie',
+    link: 'https://hackyeah.pl'
+  },
 ];
